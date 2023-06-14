@@ -3,7 +3,6 @@
 
 <h1 align="center">Hi 👋, I'm Game Programmer</h1>
 <h3 align="center">A passionate game programmer from India</h3>
-<img align="right" alt="Coding" width="400" src= "https://user-images.githubusercontent.com/71144962/231291698-222f3893-c506-4649-be41-b11f055c5fc8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-ceh&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-ceh" /> </p>
 
@@ -13,7 +12,7 @@
 
 - 💬 Ask me about **Unity or Unreal**
 
-- 📫 How to reach me **Nah you can't 😆**
+- 👻 How to reach me **Nah you can't 😆**
 
 - 📫 If desperate to reach me then let's we talk on Discord : **ToxicBoy#9162**
 
