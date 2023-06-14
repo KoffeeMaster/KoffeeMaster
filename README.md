@@ -1,5 +1,15 @@
+<img src="https://user-images.githubusercontent.com/71144962/231292343-ac9c11af-b252-4d86-b5f4-1cef24ddd6f1.gif">
 
-![Gifi](https://github.com/KoffeeMaster/KoffeeMaster/assets/125433210/1494d241-4eab-480f-9cf7-0e387d06f2fa)
+<h1 align="center">Hi 👋, I'm Game Programmer</h1>
+<h3 align="center">A passionate game programmer from India</h3>
+<img align="right" alt="Coding" width="400" src= "https://user-images.githubusercontent.com/71144962/231291698-222f3893-c506-4649-be41-b11f055c5fc8.gif">
 
-                                          <b>Hi there 👋 I'm Game Programmer</b>
-----------------------------------------------------------------------------------------------------------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-ceh&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-ceh" /> </p>
+
+- 🌱 I’m currently learning **Game Development**
+
+- 👨‍💻 All of my projects are available at [https://harshitaaggarwal.com/](https://harshitaaggarwal.com/)
+
+- 💬 Ask me about **Unity**
+
+- 📫 How to reach me **harshitaaggarwal35@gmail.com**
